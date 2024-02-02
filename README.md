@@ -1,47 +1,27 @@
-<div align='center'><img src='https://user-images.githubusercontent.com/105128267/224688338-8f1f28b7-029b-4ed7-a567-86de0c44ff42.png'/></div>
+# FoodmineTest
 
-<h2>About the project</h2>
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
-<p>This is a minimalist e-commerce website built with React and CSS. This
-website features a modern and intuitive design, with easy-to-use navigation and a
-simple shopping experience that puts the focus on the products.</p>
+## Development server
 
-👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Ecommerce Demo</a>
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-<h3>Build with:</h3>
+## Code scaffolding
 
-» Vanila CSS <br>
-» React JS
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-<h2>Screenshots of the Project 📸</h2>
-<br>
-<h3 align='center'>Home Page 🏡</h3>
+## Build
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213868640-e3421f0a-bb10-4352-82a1-1bda4df821e9.png'/>
-</div>
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-<br><br>
-<h3 align='center'>Categories Page 👇</h3>
+## Running unit tests
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213868668-55c03494-0835-43e0-9cb1-429b9a243a65.png'/>
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-<br>
-<br>
-<h3 align='center'>Product Page 🎁</h3>
+## Running end-to-end tests
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213868690-5737cead-a56e-4500-88ff-d182426ce072.png'/>
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-<br>
-<br>
-<h3 align='center'>Shopping Cart 🛒</h3>
+## Further help
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213868718-6760d6de-9060-406f-816d-f9b317bb0e0c.png'/>
-</div>
-
-
-
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
